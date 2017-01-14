@@ -274,6 +274,7 @@
                 <p>The code of conduct is adapted from the <a href="//confcodeofconduct.com">Conference Code of
                         Conduct.</a>
                     Contribute changes on <a href="//github.com/confcodeofconduct/confcodeofconduct.com">GitHub</a></p>
+                <p>LARAVEL IS A TRADEMARK OF TAYLOR OTWELL. COPYRIGHT © TAYLOR OTWELL.</p>
             </div>
         </div>
     </footer>
