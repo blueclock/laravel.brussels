@@ -4,7 +4,7 @@ return [
     'production' => true,
     'twitter' => '@laravelbrussels',
     'meetup_url' => '//meetup.com/Laravel-Brussels',
-    'other_organisation' => [
+    'other_organisations' => [
         'PHP Antwerp' => '//www.meetup.com/phpantwerp',
         'PHP Brussels' => '//www.meetup.com/BrusselsPHP',
         'PHP Gent' => '//www.meetup.com/phpgent',
