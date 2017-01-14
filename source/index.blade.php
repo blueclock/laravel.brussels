@@ -35,7 +35,7 @@
                     <div class="columns large-4 small-12 medium-12">
                         <div class="card">
                             <div class="card-divider">
-                                <img src="imgs/speaker.svg">
+                                <img src="img/speaker.svg">
                                 <h5>Main Talk</h5>
                             </div>
                             <div class="card-section">
@@ -46,7 +46,7 @@
                     <div class="columns large-4 small-12 medium-12">
                         <div class="card">
                             <div class="card-divider">
-                                <img src="imgs/artisan-bar.svg">
+                                <img src="img/artisan-bar.svg">
                                 <h5>Artisan Bar</h5>
                             </div>
                             <div class="card-section">
@@ -59,7 +59,7 @@
                     <div class="columns large-4 small-12 medium-12">
                         <div class="card">
                             <div class="card-divider">
-                                <img src="imgs/composer-show.svg">
+                                <img src="img/composer-show.svg">
                                 <h5>Composer Show</h5>
                             </div>
                             <div class="card-section">
