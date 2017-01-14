@@ -3,7 +3,7 @@
 
 @include foundation-everything(true);
 
-footer { background-color: rgb(229,95,86);  padding-bottom: 2rem; }
+footer { background-color: rgb(229,95,86); padding: 2rem 0; }
 footer a { color: #fff; }
 footer p { margin: 1rem 0 0 0; color:#000000; }
 .content { background-color: #FFF; padding: 3em; }
@@ -17,4 +17,4 @@ footer p { margin: 1rem 0 0 0; color:#000000; }
   background-size: cover;
 }
 
-.card-divider { color: #FFF; }
+.card-divider { color: #FFF; text-align: center; }
