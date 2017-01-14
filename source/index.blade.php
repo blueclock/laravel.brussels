@@ -219,9 +219,9 @@
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9">
                 <h4>Picture Credits</h4>
-                <p>Hard Hat icon created by Michele Zamparo from the Noun Project - Creative Commons</p>
-                <p>Two people icon created by Focus Lab from the Noun Project - Creative Commons</p>
-                <p>Hard Hat icon by created by Michele Zamparo from the Noun Project - Creative Commons</p>
+                <p>Hard Hat icon created by Michele Zamparo from the Noun Project - Creative Commons<br>
+                Two people icon created by Focus Lab from the Noun Project - Creative Commons<br>
+                Speaker icon Created by Mazil from the Noun Project - Creative Commons</p>
             </div>
         </div>
     </footer>
