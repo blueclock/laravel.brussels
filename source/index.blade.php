@@ -3,7 +3,7 @@
 @section('body')
 
     <!-- intro -->
-    <section>
+    <section class="intro">
 
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content">
