@@ -258,13 +258,22 @@
         </div>
     </section>
 
+    <!-- footer -->
+
     <footer>
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9">
                 <h4>Picture Credits</h4>
                 <p>Hard Hat icon created by Michele Zamparo from the Noun Project - Creative Commons<br>
-                Two people icon created by Focus Lab from the Noun Project - Creative Commons<br>
-                Speaker icon Created by Mazil from the Noun Project - Creative Commons</p>
+                    Two people icon created by Focus Lab from the Noun Project - Creative Commons<br>
+                    Speaker icon Created by Mazil from the Noun Project - Creative Commons<br>
+                    Coffee machine icon created by Agne Alesiute from the Noun Project - Creative Commons<br>
+                    IIS over Western Europe - NASA</p>
+                <hr>
+                <h4>Content Credits</h4>
+                <p>The code of conduct is adapted from the <a href="//confcodeofconduct.com">Conference Code of
+                        Conduct.</a>
+                    Contribute changes on <a href="//github.com/confcodeofconduct/confcodeofconduct.com">GitHub</a></p>
             </div>
         </div>
     </footer>
