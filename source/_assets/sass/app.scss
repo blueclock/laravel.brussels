@@ -2,3 +2,19 @@
 @import 'foundation';
 
 @include foundation-everything(true);
+
+footer { background-color: rgb(229,95,86);  padding-bottom: 2rem; }
+footer a { color: #fff; }
+footer p { margin: 1rem 0 0 0; color:#000000; }
+.content { background-color: #FFF; padding: 3em; }
+.content-semi { background-color: rgba(255,255,255,0.7); padding: 3em; }
+
+/* sections */
+
+.events {
+  background-image: url('../img/brussels.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-divider { color: #FFF; }

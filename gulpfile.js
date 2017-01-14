@@ -6,7 +6,7 @@ elixir.config.assetsPath = 'source/_assets';
 elixir.config.publicPath = 'source';
 
 elixir(function(mix) {
-    var env = argv.e || argv.env || 'production';
+    var env = argv.e || argv.env || 'local';
     var port = argv.p || argv.port || 3000;
 
     mix.sass(["app.scss"], "resources/assets/css/foundation.css");
