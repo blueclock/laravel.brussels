@@ -9,7 +9,7 @@ elixir.config.sourcemaps = false;
 elixir(function(mix) {
     var env = argv.e || argv.env || "local";
     var port = argv.p || argv.port || 3000;
-    mix.sass(["app.scss"], "source/css/foundation.css")
+    mix.sass(["app.scss"], "source/css/main.css")
         .exec('./vendor/bin/jigsaw build ' + env, ['./source/*', './source/**/*', '!./source/_assets/**/*'])
         .browserSync({
             port: port,
