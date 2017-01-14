@@ -5264,40 +5264,78 @@ a.thumbnail image {
   }
 }
 
-footer {
-  background-color: #e55f56;
-  padding: 2rem 0;
+blockquote {
+  color: #0a0a0a;
 }
 
-footer a {
-  color: #fff;
-}
-
-footer p {
-  margin: 1rem 0 0 0;
-  color: #000000;
-}
-
+/* content containers */
 .content {
   background-color: #FFF;
   padding: 3em;
 }
 
 .content-semi {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 3em;
+  color: #0a0a0a;
 }
 
-/* sections */
-.events {
-  background-image: url("../img/brussels.jpg");
+/* cards */
+.card-divider {
+  color: #FFF;
+  text-align: center;
+}
+
+.card-divider img {
+  max-width: 250px;
+}
+
+/*
+
+SECTIONS
+intro
+events
+call-for-speakers
+code-of-conduct
+sponsorship
+contact
+other-organisations
+footer
+ */
+section {
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.card-divider {
-  color: #FFF;
-  text-align: center;
+.events {
+  background-image: url("../img/brussels.jpg");
+}
+
+.call-for-speakers {
+  background-image: url("../img/code.png");
+}
+
+.other-groups {
+  background-image: url("../img/belgium-from-space.jpg");
+}
+
+.organisations p {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #e23933;
+  padding: 3rem;
+}
+
+footer a {
+  color: #222;
+}
+
+footer p {
+  margin: 1rem 0 0 0;
+  color: #fff;
 }
 
 /*# sourceMappingURL=foundation.css.map */
