@@ -26,49 +26,69 @@
     <section class="events">
 
         <div class="row align-center">
-            <div class="columns small-12 large-8 medium-9 content-semi">
+            <div class="columns small-12 large-8 medium-11 content-semi">
 
                 <h2>Our Meetup Events</h2>
-                <p>We organise 6-8 meetups per year. Each meetup has a main talk by an invited speaker, usually 30-45 minutes.</p>
+                <p>We organise 6-8 meetups per year.</p>
+                <p>We try and follow the same structure at each Meetup with one main talk by an invited speaker,
+                    usually 30-45 minutes and two less formal sections, the Artisan Bar and the Composer Show.
+                    Then there's always time for networking and socialising.</p>
 
                 <div class="row">
-                    <div class="columns large-4 small-12 medium-12">
+                    <div class="columns large-6 small-12 medium-6">
                         <div class="card">
                             <div class="card-divider">
                                 <img src="img/speaker.svg">
                                 <h5>Main Talk</h5>
                             </div>
                             <div class="card-section">
-                                <p>This card makes use of the card-divider element.</p>
+                                <p>This part of the Meetup is a speaker presentation on a topic related to modern web
+                                    development. The talk won't always be about Laravel or even PHP as we have to use a
+                                    variety of tools in our day to day work as developers.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="columns large-4 small-12 medium-12">
+                    <div class="columns large-6 small-12 medium-6">
                         <div class="card">
                             <div class="card-divider">
                                 <img src="img/artisan-bar.svg">
                                 <h5>Artisan Bar</h5>
                             </div>
                             <div class="card-section">
-                                <p>No, not a free all-night bar staffed by crafts people but a take on the Apple Genius Bar.
-                                    If you're stuck on something, sit down with a fellow programmer and show them your code and see if you can find a solution.
-                                    Because two heads are better than one, right?</p>
+                                <p>No, not a free all-night bar staffed by crafts people, but a take on the Apple Genius
+                                    Bar.
+                                    If you're stuck on something, sit down with a fellow programmer and show them your
+                                    code to see if you can find a solution.
+                                    Because two heads are always better than one, right?</p>
                             </div>
                         </div>
                     </div>
-                    <div class="columns large-4 small-12 medium-12">
+                    <div class="columns large-6 small-12 medium-6">
                         <div class="card">
                             <div class="card-divider">
                                 <img src="img/composer-show.svg">
                                 <h5>Composer Show</h5>
                             </div>
                             <div class="card-section">
-                                <p>This is our open floor slot where anyone can show us  - in 10 minutes or less -  what they're working on.</p>
+                                <p>The Composer Show is our open floor slot where anyone can show us - in 10 minutes or
+                                    less - what
+                                    they're working on.</p>
                             </div>
                         </div>
-
                     </div>
 
+                    <div class="columns large-6 small-12 medium-6">
+                        <div class="card">
+                            <div class="card-divider">
+                                <img src="img/networking.svg">
+                                <h5>Networking</h5>
+                            </div>
+                            <div class="card-section">
+                                <p>There's always time at the end of the event to chat with the speakers and other
+                                    members, find new coworkers or just have a laugh.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
