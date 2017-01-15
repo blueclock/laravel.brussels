@@ -1839,7 +1839,7 @@ p + .stat {
   padding: 0.85em 1em;
   -webkit-appearance: none;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 3px;
   -webkit-transition: background-color 0.25s ease-out, color 0.25s ease-out;
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
   font-size: 0.9rem;
@@ -2074,42 +2074,6 @@ p + .stat {
   margin-left: 0;
 }
 
-.badge {
-  display: inline-block;
-  min-width: 2.1em;
-  padding: 0.3em;
-  border-radius: 50%;
-  font-size: 0.6rem;
-  text-align: center;
-  background: #e23933;
-  color: #fefefe;
-}
-
-.badge.primary {
-  background: #e23933;
-  color: #fefefe;
-}
-
-.badge.secondary {
-  background: #767676;
-  color: #fefefe;
-}
-
-.badge.success {
-  background: #3adb76;
-  color: #222222;
-}
-
-.badge.warning {
-  background: #ffae00;
-  color: #222222;
-}
-
-.badge.alert {
-  background: #d01a01;
-  color: #fefefe;
-}
-
 .card {
   display: -webkit-box;
   display: flex;
@@ -2150,34 +2114,6 @@ p + .stat {
   margin-bottom: 0;
 }
 
-.close-button {
-  position: absolute;
-  color: #8a8a8a;
-  cursor: pointer;
-}
-
-[data-whatinput='mouse'] .close-button {
-  outline: 0;
-}
-
-.close-button:hover, .close-button:focus {
-  color: #222222;
-}
-
-.close-button.small {
-  right: 0.66rem;
-  top: 0.33em;
-  font-size: 1.5em;
-  line-height: 1;
-}
-
-.close-button, .close-button.medium {
-  right: 1rem;
-  top: 0.5rem;
-  font-size: 2em;
-  line-height: 1;
-}
-
 .responsive-embed, .flex-video {
   position: relative;
   height: 0;
@@ -2202,43 +2138,6 @@ p + .stat {
 
 .responsive-embed.widescreen, .flex-video.widescreen {
   padding-bottom: 56.25%;
-}
-
-.label {
-  display: inline-block;
-  padding: 0.33333rem 0.5rem;
-  border-radius: 0;
-  font-size: 0.8rem;
-  line-height: 1;
-  white-space: nowrap;
-  cursor: default;
-  background: #e23933;
-  color: #fefefe;
-}
-
-.label.primary {
-  background: #e23933;
-  color: #fefefe;
-}
-
-.label.secondary {
-  background: #767676;
-  color: #fefefe;
-}
-
-.label.success {
-  background: #3adb76;
-  color: #222222;
-}
-
-.label.warning {
-  background: #ffae00;
-  color: #222222;
-}
-
-.label.alert {
-  background: #d01a01;
-  color: #fefefe;
 }
 
 .hide {
@@ -2535,6 +2434,10 @@ blockquote {
   color: #0a0a0a;
 }
 
+.logo {
+  margin: 2em;
+}
+
 /* content containers */
 .content {
   background-color: #FFF;
@@ -2580,6 +2483,10 @@ section {
 
 .call-for-speakers {
   background-image: url("../img/code.png");
+}
+
+.sponsorship {
+  background-color: #e23933;
 }
 
 .other-groups {
