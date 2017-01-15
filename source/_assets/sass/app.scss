@@ -55,20 +55,40 @@ section {
   background-size: cover;
 }
 
-.events {
-  background-image: url('../img/brussels.jpg');
-}
-
-.call-for-speakers {
-  background-image: url('../img/code.png');
-}
-
 .sponsorship {
   background-color: $laracolour;
 }
 
+.intro {
+  background-image: url('../img/medium/code.png');
+}
+
+.events {
+  background-image: url('../img/medium/brussels.jpg');
+}
+
+.call-for-speakers {
+  background-image: url('../img/medium/code.png');
+}
+
 .other-groups {
-  background-image: url('../img/belgium-from-space.jpg');
+  background-image: url('../img/medium/belgium-from-space.jpg');
+}
+
+@media print, screen and (min-width: 40em) {
+
+  .events {
+    background-image: url('../img/brussels.jpg');
+  }
+
+  .call-for-speakers {
+    background-image: url('../img/code.png');
+  }
+
+  .other-groups {
+    background-image: url('../img/belgium-from-space.jpg');
+  }
+
 }
 
 .organisations p {
