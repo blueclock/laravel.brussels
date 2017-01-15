@@ -204,10 +204,13 @@
     <section class="sponsorship">
 
         <div class="row align-center">
-            <div class="columns small-12 large-8 medium-9 content">
+            <div class="columns small-12 large-8 medium-9 content-semi">
                 <h2>Sponsorship & Support</h2>
-                <p>The group is run by volunteers</p>
-                <p>We receive in-kind support from </p>
+                <p>The group is run by volunteers. We're always happy to hear from companies that would like to support
+                    our work.</p>
+                <p>We receive in-kind support from <a href="//betacowork.com">BetaCowork</a> who often host our events
+                    and free licences for software such as PHPStorm which we can offer as prizes from <a
+                            href="//www.jetbrains.com">JetBrains</a></p>
             </div>
         </div>
 
