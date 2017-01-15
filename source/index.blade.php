@@ -8,7 +8,7 @@
     <section class="intro">
 
         <div class="row align-center">
-            <div class="columns small-12 large-8 medium-9 content">
+            <div class="columns small-12 large-8 medium-9 content-semi">
                 <h1>About Laravel Brussels</h1>
                 <p>The Laravel Brussels Meetup is group for anyone interested in learning about and sharing knowledge on
                     Laravel, the "PHP framework
