@@ -28,7 +28,7 @@
     <section class="events">
 
         <div class="row align-center">
-            <div class="columns small-12 large-8 medium-11 content-semi">
+            <div class="columns small-12 large-8 medium-12 content-semi">
 
                 <h2>Our Meetup Events</h2>
                 <p>We organise 6-8 meetups per year.</p>
