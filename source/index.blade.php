@@ -10,7 +10,7 @@
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
                 <h1>About Laravel Brussels</h1>
-                <p>The Laravel Brussels Meetup is group for anyone interested in learning about and sharing knowledge on
+                <p>The Laravel Brussels Meetup is a group for anyone interested in learning about and sharing knowledge on
                     Laravel, the "PHP framework
                     for web artisans". The group welcomes beginners and experts, amateurs and pros, young and old, etc.
                     Laravel is an accessible, yet powerful PHP framework for web application development. Its
@@ -124,7 +124,7 @@
                     expert. We're just a group of enthusiasts sharing what we know and care about. Even if it's your
                     first time speaking publicly, don't be shy, get in touch with Ben or Gilbert.</p>
                 <h4>Topics</h4>
-                <p>We cover a broad range of topics so the best approach is just to send is a short message with your
+                <p>We cover a broad range of topics so the best approach is just to send us a short message with your
                     suggested topic.</p>
                 <p>If you're short of ideas:</p>
                 <blockquote>
