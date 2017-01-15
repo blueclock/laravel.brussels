@@ -32,8 +32,8 @@
 
                 <h2>Our Meetup Events</h2>
                 <p>We organise 6-8 meetups per year.</p>
-                <p>We try and follow the same structure at each Meetup with one main talk by an invited speaker,
-                    usually 30-45 minutes and two less formal sections, the Artisan Bar and the Composer Show.
+                <p>We try to follow the same structure at each Meetup with one main talk by an invited speaker lasting
+                    usually 30-45 minutes and then two less formal sections, the Artisan Bar and the Composer Show.
                     Then there's always time for networking and socialising.</p>
 
                 <div class="row">
