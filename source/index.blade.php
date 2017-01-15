@@ -2,10 +2,10 @@
 
 @section('body')
 
-    <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
-
     <!-- intro -->
     <section class="intro">
+
+    <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
 
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
