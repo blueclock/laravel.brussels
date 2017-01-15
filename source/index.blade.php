@@ -2,6 +2,8 @@
 
 @section('body')
 
+    <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
+
     <!-- intro -->
     <section class="intro">
 
