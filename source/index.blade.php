@@ -108,6 +108,7 @@
                 <p>The Meetup group is organised by Ben and Gilbert. You can tweet us <a
                             href="//twitter.com/{{ $twitter }}">{{ $twitter }}</a></p>
                 <p>You can also directly message us using Meetup's internal messaging system.</p>
+                <p><a href="{{ $meetup_url }}" class="button large hollow expanded">Join. It's Free</a></p>
             </div>
         </div>
 
