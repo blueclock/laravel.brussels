@@ -18,7 +18,7 @@
                     elegant syntax and its clean structure make PHP development a real joy. As the Laravel community
                     keeps growing, this group helps the Belgium-based users know each other, and to spread
                     the word!</p>
-                <p><a href="{{ $meetup_url }}" class="button radius default right">Register on Meetup.com</a></p>
+                <p><a href="{{ $meetup_url }}" class="button default">Register on Meetup.com</a></p>
             </div>
         </div>
 
