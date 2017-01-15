@@ -120,7 +120,7 @@
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
                 <h2>Call For Speakers</h2>
-                <p>Don you have something to share? We're always on look out for speakers. You don't have to be an
+                <p>Do you have something to share? We're always on look out for speakers. You don't have to be an
                     expert. We're just a group of enthusiasts sharing what we know and care about. Even if it's your
                     first time speaking publicly, don't be shy, get in touch with Ben or Gilbert.</p>
                 <h4>Topics</h4>
