@@ -3,17 +3,39 @@
 
 @include foundation-everything(true);
 
-blockquote { color: #0a0a0a; }
+$laracolour: #e23933;
+
+blockquote {
+  color: #0a0a0a;
+}
+
+.logo {
+  margin: 2em;
+}
 
 /* content containers */
 
-.content { background-color: #FFF; padding: 3em; }
-.content-semi { background-color: rgba(255,255,255,0.8); padding: 3em; color: #0a0a0a; }
+.content {
+  background-color: #FFF;
+  padding: 3em;
+}
+
+.content-semi {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 3em;
+  color: #0a0a0a;
+}
 
 /* cards */
 
-.card-divider { color: #FFF; text-align: center; }
-.card-divider img { max-width: 250px; }
+.card-divider {
+  color: #FFF;
+  text-align: center;
+}
+
+.card-divider img {
+  max-width: 250px;
+}
 
 /*
 
@@ -41,12 +63,29 @@ section {
   background-image: url('../img/code.png');
 }
 
+.sponsorship {
+  background-color: $laracolour;
+}
+
 .other-groups {
   background-image: url('../img/belgium-from-space.jpg');
 }
 
-.organisations p { font-size: 130%; font-weight: bold; }
+.organisations p {
+  font-size: 130%;
+  font-weight: bold;
+}
 
-footer { background-color: #e23933; padding: 3rem; }
-footer a { color: #222; }
-footer p { margin: 1rem 0 0 0; color:#fff; }
+footer {
+  background-color: $laracolour;
+  padding: 3rem;
+}
+
+footer a {
+  color: #222;
+}
+
+footer p {
+  margin: 1rem 0 0 0;
+  color: #fff;
+}
