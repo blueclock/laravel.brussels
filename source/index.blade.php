@@ -178,8 +178,7 @@
                     sexual orientation, disability, physical appearance, body size, race, ethnicity, religion,
                     technology choices, sexual images in public spaces, deliberate intimidation, stalking, following,
                     harassing photography or recording, sustained disruption of talks or other events, inappropriate
-                    physical
-                    contact, and unwelcome sexual attention.</p>
+                    physical contact, and unwelcome sexual attention.</p>
 
                 <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
 
@@ -208,9 +207,11 @@
                 <h2>Sponsorship & Support</h2>
                 <p>The group is run by volunteers. We're always happy to hear from companies that would like to support
                     our work.</p>
-                <p>We receive in-kind support from <a href="//betacowork.com">BetaCowork</a> who often host our events
-                    and free licences for software such as PHPStorm which we can offer as prizes from <a
-                            href="//www.jetbrains.com">JetBrains</a></p>
+                <p>We receive in-kind support from:</p>
+                <ul>
+                    <li><a href="//betacowork.com">BetaCowork</a> who often host our events.</li>
+                    <li><a href="//www.jetbrains.com">JetBrains</a> who offer free licences for software such as PHPStorm which we can offer as prizes.</li>
+                </ul>
             </div>
         </div>
 
