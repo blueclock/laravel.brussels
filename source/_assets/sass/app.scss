@@ -59,7 +59,7 @@ section {
 }
 
 .intro {
-  background-image: url('../img/medium/code.png');
+  background-image: url('../img/medium/meetup-crowd.jpg');
 }
 
 .events {
@@ -75,6 +75,10 @@ section {
 }
 
 @media print, screen and (min-width: 40em) {
+
+  .intro {
+    background-image: url('../img/meetup-crowd.jpg');
+  }
 
   .events {
     background-image: url('../img/brussels.jpg');
