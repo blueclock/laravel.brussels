@@ -5,13 +5,18 @@
     <!-- intro -->
     <section class="intro">
 
-    <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
+        <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
+        <span class="social-icons">
+            <a href="{{ $meetup_url }}"><i class="fa fa-3x fa-meetup" aria-hidden="true"></i></a>
+            <a href="//twitter.com/{{ $twitter }}"><i class="fa fa-3x fa-twitter-square" aria-hidden="true"></i></a>
+        </span>
 
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
                 <h1>About Laravel Brussels</h1>
 
-                <p>The Laravel Brussels Meetup is a group for anyone interested in learning about and sharing knowledge on
+                <p>The Laravel Brussels Meetup is a group for anyone interested in learning about and sharing their knowledge
+                    of
                     Laravel, the "PHP framework
                     for web artisans". The group welcomes beginners and experts, amateurs and pros, young and old, etc.
                     Laravel is an accessible, yet powerful PHP framework for web application development. Its

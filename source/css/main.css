@@ -491,7 +491,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #f9f6dc;
+  background: #F94F39;
   font-family: Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -2432,6 +2432,7 @@ p + .stat {
 
 blockquote {
   color: #0a0a0a;
+  border-left: 1px solid #444;
 }
 
 .logo {
@@ -2477,12 +2478,8 @@ section {
   background-size: cover;
 }
 
-.sponsorship {
-  background-color: #e23933;
-}
-
 .intro {
-  background-image: url("../img/medium/code.png");
+  background-image: url("../img/medium/meetup-crowd.jpg");
 }
 
 .events {
@@ -2498,6 +2495,9 @@ section {
 }
 
 @media print, screen and (min-width: 40em) {
+  .intro {
+    background-image: url("../img/meetup-crowd.jpg");
+  }
   .events {
     background-image: url("../img/brussels.jpg");
   }
@@ -2515,7 +2515,6 @@ section {
 }
 
 footer {
-  background-color: #e23933;
   padding: 3rem;
 }
 

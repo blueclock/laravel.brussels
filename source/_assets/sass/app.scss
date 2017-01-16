@@ -3,10 +3,9 @@
 
 @include foundation-everything(true);
 
-$laracolour: #e23933;
-
 blockquote {
   color: #0a0a0a;
+  border-left: 1px solid #444;
 }
 
 .logo {
@@ -56,11 +55,11 @@ section {
 }
 
 .sponsorship {
-  background-color: $laracolour;
+  // background-color: $laracolour;
 }
 
 .intro {
-  background-image: url('../img/medium/code.png');
+  background-image: url('../img/medium/meetup-crowd.jpg');
 }
 
 .events {
@@ -76,6 +75,10 @@ section {
 }
 
 @media print, screen and (min-width: 40em) {
+
+  .intro {
+    background-image: url('../img/meetup-crowd.jpg');
+  }
 
   .events {
     background-image: url('../img/brussels.jpg');
@@ -97,13 +100,14 @@ section {
 }
 
 footer {
-  background-color: $laracolour;
   padding: 3rem;
 }
 
 footer a {
   color: #222;
 }
+
+footer a:hover { color:#FFF; }
 
 footer p {
   margin: 1rem 0 0 0;
