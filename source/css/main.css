@@ -2439,6 +2439,12 @@ blockquote {
   margin: 2em;
 }
 
+.social-icons {
+  display: inline-block;
+  float: right;
+  margin: 2em;
+}
+
 /* content containers */
 .content {
   background-color: #FFF;
@@ -2520,6 +2526,10 @@ footer {
 
 footer a {
   color: #222;
+}
+
+footer a:hover {
+  color: #FFF;
 }
 
 footer p {
