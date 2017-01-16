@@ -3,10 +3,9 @@
 
 @include foundation-everything(true);
 
-$laracolour: #e23933;
-
 blockquote {
   color: #0a0a0a;
+  border-left: 1px solid #444;
 }
 
 .logo {
