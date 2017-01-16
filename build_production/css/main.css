@@ -2432,9 +2432,16 @@ p + .stat {
 
 blockquote {
   color: #0a0a0a;
+  border-left: 1px solid #444;
 }
 
 .logo {
+  margin: 2em;
+}
+
+.social-icons {
+  display: inline-block;
+  float: right;
   margin: 2em;
 }
 
@@ -2519,6 +2526,10 @@ footer {
 
 footer a {
   color: #222;
+}
+
+footer a:hover {
+  color: #FFF;
 }
 
 footer p {
