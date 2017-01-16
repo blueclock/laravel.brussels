@@ -10,6 +10,7 @@
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
                 <h1>About Laravel Brussels</h1>
+
                 <p>The Laravel Brussels Meetup is a group for anyone interested in learning about and sharing knowledge on
                     Laravel, the "PHP framework
                     for web artisans". The group welcomes beginners and experts, amateurs and pros, young and old, etc.
@@ -188,7 +189,8 @@
                 <p>If a participant engages in harassing behavior, the organisers may take any action they
                     deem appropriate, including warning the offender or expulsion from the Meetup.</p>
 
-                <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, speak up and
+                <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns,
+                    speak up and
                     please tell an organiser immediately.</p>
 
                 <p>We expect participants to follow these rules at Meetup and workshop venues as well as related
@@ -210,7 +212,9 @@
                 <p>We receive in-kind support from:</p>
                 <ul>
                     <li><a href="//betacowork.com">BetaCowork</a> who often host our events.</li>
-                    <li><a href="//www.jetbrains.com">JetBrains</a> who offer free licences for software such as PHPStorm which we can offer as prizes.</li>
+                    <li><a href="//www.jetbrains.com">JetBrains</a> who offer free licences for software such as
+                        PHPStorm which we can offer as prizes.
+                    </li>
                 </ul>
             </div>
         </div>
