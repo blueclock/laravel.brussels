@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section('title','Laravel Brussels PHP Meetup')
+
 @section('body')
 
     <!-- intro -->
