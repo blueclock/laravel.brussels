@@ -100,13 +100,14 @@ section {
 }
 
 footer {
-  background-color: $laracolour;
   padding: 3rem;
 }
 
 footer a {
   color: #222;
 }
+
+footer a:hover { color:#FFF; }
 
 footer p {
   margin: 1rem 0 0 0;
