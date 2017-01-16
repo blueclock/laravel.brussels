@@ -5,11 +5,7 @@
     <!-- intro -->
     <section class="intro">
 
-        <img class="logo" title="Laravel Logo" alt="Laravel Logo" src="img/laravel.svg">
-        <span class="social-icons">
-            <a href="{{ $meetup_url }}"><i class="fa fa-3x fa-meetup" aria-hidden="true"></i></a>
-            <a href="//twitter.com/{{ $twitter }}"><i class="fa fa-3x fa-twitter-square" aria-hidden="true"></i></a>
-        </span>
+        @include('_nav')
 
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
