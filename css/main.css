@@ -2477,12 +2477,8 @@ section {
   background-size: cover;
 }
 
-.sponsorship {
-  background-color: #e23933;
-}
-
 .intro {
-  background-image: url("../img/meetup-crowd.jpg");
+  background-image: url("../img/medium/meetup-crowd.jpg");
 }
 
 .events {
@@ -2498,6 +2494,9 @@ section {
 }
 
 @media print, screen and (min-width: 40em) {
+  .intro {
+    background-image: url("../img/meetup-crowd.jpg");
+  }
   .events {
     background-image: url("../img/brussels.jpg");
   }
@@ -2515,7 +2514,6 @@ section {
 }
 
 footer {
-  background-color: #e23933;
   padding: 3rem;
 }
 
