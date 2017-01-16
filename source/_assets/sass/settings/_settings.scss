@@ -56,12 +56,15 @@ $foundation-palette: (
   warning: #ffae00,
   alert: #d01a01,
 );
+
+$laracolour: #F94F39;
+
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #222222;
 $white: #fefefe;
-$body-background: rgb(249, 246, 220);
+$body-background: $laracolour;
 $body-font-color: $black;
 $body-font-family: Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
