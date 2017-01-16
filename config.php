@@ -2,6 +2,7 @@
 
 return [
     'production' => true,
+    'site_title' => 'Laravel Brussels PHP Meetup',
     'twitter' => '@laravelbrussels',
     'meetup_url' => '//meetup.com/Laravel-Brussels',
     'other_organisations' => [
