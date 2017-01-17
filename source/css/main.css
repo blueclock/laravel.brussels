@@ -2467,6 +2467,10 @@ blockquote {
   max-width: 250px;
 }
 
+.sponsor .card-divider {
+  background-color: #fff;
+}
+
 /*
 SECTIONS
 intro
