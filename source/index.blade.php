@@ -145,6 +145,7 @@
                         <li>Build processes</li>
                         <li>Code quality</li>
                         <li>Cool APIs and services</li>
+                        <li>PyroCMS, Statamic, October and other CMS</li>
                     </ul>
 
                 </blockquote>
