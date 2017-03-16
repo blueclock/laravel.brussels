@@ -3,12 +3,8 @@
 @section('title','Laravel Brussels PHP Meetup')
 
 @section('body')
-
     <!-- intro -->
     <section class="intro">
-
-        @include('_nav')
-
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content-semi">
                 <h1>About Laravel Brussels</h1>
