@@ -8,6 +8,8 @@ blockquote {
   border-left: 1px solid #444;
 }
 
+#menu-top { top:0; left:0; background-color: transparent; position: absolute; width: 100%; }
+
 .logo {
   margin: 2em;
 }
@@ -17,6 +19,9 @@ blockquote {
   float: right;
   margin: 2em;
 }
+
+.intro .row .columns { margin-top: 10em!important; }
+.minutes { background-color: #fff; }
 
 /* content containers */
 
