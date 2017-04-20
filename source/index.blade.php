@@ -18,7 +18,7 @@
                     elegant syntax and its clean structure make PHP development a real joy. As the Laravel community
                     keeps growing, this group helps the Belgium-based users know each other, and to spread
                     the word!</p>
-                <p><a href="{{ $meetup_url }}" class="button default">Register on Meetup.com</a></p>
+                <p><a href="{{ $page->meetup_url }}" class="button default">Register on Meetup.com</a></p>
             </div>
         </div>
 
@@ -102,12 +102,12 @@
         <div class="row align-center">
             <div class="columns small-12 large-8 medium-9 content">
                 <h2>Contact Us</h2>
-                <p>The best way to get in touch is just to <a href="{{ $meetup_url }}">register</a> as a member and come
+                <p>The best way to get in touch is just to <a href="{{ $page->meetup_url }}">register</a> as a member and come
                     along to one of our events.</p>
                 <p>The Meetup group is organised by Ben and Gilbert. You can tweet us <a
-                            href="//twitter.com/{{ $twitter }}">{{ $twitter }}</a></p>
+                            href="//twitter.com/{{ $page->twitter }}">{{ $page->twitter }}</a></p>
                 <p>You can also directly message us using Meetup's internal messaging system.</p>
-                <p><a href="{{ $meetup_url }}" class="button large hollow expanded">Join. It's Free</a></p>
+                <p><a href="{{ $page->meetup_url }}" class="button large hollow expanded">Join. It's Free</a></p>
             </div>
         </div>
 
@@ -247,7 +247,7 @@
 
                 <blockquote class="organisations">
 
-                    @foreach($other_organisations as $organisation => $url)
+                    @foreach($page->other_organisations as $organisation => $url)
 
                         <p><a href="{{ $url }}">{{ $organisation }}</a></p>
 
